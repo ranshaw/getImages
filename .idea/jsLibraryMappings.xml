@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{node抓取网站图片 node_modules}" />
+    <file url="file://$PROJECT_DIR$/getimgs.js" libraries="{ECMAScript 6, node-DefinitelyTyped}" />
+    <file url="PROJECT" libraries="{node-DefinitelyTyped, node抓取网站图片 node_modules}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+    <includedPredefinedLibrary name="WebGL" />
+  </component>
+</project>
